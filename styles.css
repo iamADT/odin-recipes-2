@@ -1,1 +1,33 @@
+body{
+    padding: 24px;
+    color: #2c2c2c;
+}
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+}
+img{
+    height: auto;
+    width: 500px;
+    border-radius: 8px;
+}
+h2{
+    font-family: Helvetica, Arial, sans-serif;
+    margin-bottom: 0px;
+}
 
+p{
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 500px;
+}
+
+li{
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 500px;
+    padding-bottom: 8px;
+    line-height: 150%;
+}
+
+.link{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #2c2c2c;
+}
